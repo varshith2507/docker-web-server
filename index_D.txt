@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Docker Web Server Project</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f6f9;
+            text-align: center;
+            padding: 50px;
+        }
+
+        .container {
+            background: white;
+            padding: 30px;
+            border-radius: 15px;
+            width: 70%;
+            margin: auto;
+            box-shadow: 0px 0px 15px rgba(0,0,0,0.2);
+        }
+
+        h1 {
+            color: #0078D7;
+        }
+
+        h2 {
+            color: #333;
+        }
+
+        ul {
+            text-align: left;
+            display: inline-block;
+            font-size: 18px;
+        }
+
+        .footer {
+            margin-top: 30px;
+            color: gray;
+        }
+    </style>
+</head>
+
+<body>
+
+<div class="container">
+
+    <h1>🚀 Docker Web Server Project</h1>
+
+    <h2>DevOps Internship Project</h2>
+
+    <p>
+        This web server is running inside a Docker container using Nginx.
+    </p>
+
+    <h3>Project Details</h3>
+
+    <ul>
+        <li>✔ Containerization using Docker</li>
+        <li>✔ Web Server using Nginx</li>
+        <li>✔ Port Mapping (8080 → 80)</li>
+        <li>✔ Custom HTML Page Deployment</li>
+        <li>✔ Docker Image Management</li>
+        <li>✔ Container Lifecycle Management</li>
+    </ul>
+
+    <h3>Technologies Used</h3>
+
+    <ul>
+        <li>Docker</li>
+        <li>Nginx</li>
+        <li>HTML & CSS</li>
+        <li>Windows 11</li>
+    </ul>
+
+    <h3>Created By</h3>
+
+    <p><b>Varshith</b></p>
+
+    <div class="footer">
+        <p>DevOps Internship 2026</p>
+    </div>
+
+</div>
+
+</body>
+</html>
